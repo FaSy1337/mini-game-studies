@@ -1,2 +1,2 @@
 # mini-game-studies
-my first steps
+Цель, Как запускать, Прогресс
